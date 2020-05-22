@@ -9,4 +9,5 @@ TODO LIST
 8. Prepare slides for group meeting
 9. *Write script for data analysis
 10. Order lunch online
-11. Drop off dog at the vet
+11. *Drop off dog at the vet
+12. Order ice-cream from Jenny's
